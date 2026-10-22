@@ -1,0 +1,84 @@
+# Unity 자동 생성 폴더·파일
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.vs/
+/.plastic/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.unitypackage
+*.unitypackage.meta
+*.zip
+*.hwpx
+
+# 외부 에셋·템플릿 (README 참고)
+/Assets/Alteruna/
+/Assets/Alteruna.meta
+/Assets/Devion Games/
+/Assets/Devion Games.meta
+/Assets/RPG_FPS_game_assets_industrial/
+/Assets/RPG_FPS_game_assets_industrial.meta
+/Assets/New Terrain.asset
+/Assets/New Terrain.asset.meta
+# Alteruna FPS 템플릿 (방 매칭, 총 든 캐릭터, 점수판, 템플릿 리소스)
+/Assets/AlterunaFPS/Animations/
+/Assets/AlterunaFPS/Animations.meta
+/Assets/AlterunaFPS/Efx/
+/Assets/AlterunaFPS/Efx.meta
+/Assets/AlterunaFPS/Materials/
+/Assets/AlterunaFPS/Materials.meta
+/Assets/AlterunaFPS/Models/
+/Assets/AlterunaFPS/Models.meta
+/Assets/AlterunaFPS/Plugins/
+/Assets/AlterunaFPS/Plugins.meta
+/Assets/AlterunaFPS/Sci-Fi UI/
+/Assets/AlterunaFPS/Sci-Fi UI.meta
+/Assets/AlterunaFPS/Sfx/
+/Assets/AlterunaFPS/Sfx.meta
+/Assets/AlterunaFPS/Skybox/
+/Assets/AlterunaFPS/Skybox.meta
+/Assets/AlterunaFPS/Textures/
+/Assets/AlterunaFPS/Textures.meta
+/Assets/AlterunaFPS/README.md
+/Assets/AlterunaFPS/README.md.meta
+/Assets/AlterunaFPS/Prefab/*
+!/Assets/AlterunaFPS/Prefab/Player_cross.prefab*
+!/Assets/AlterunaFPS/Prefab/Sphere.prefab*
+/Assets/AlterunaFPS/Scripts/UI/ScoreBoard.cs*
+/Assets/AlterunaFPS/Scripts/UI/ScoreBoardRow.cs*
+/Assets/AlterunaFPS/Scripts/Audio/GunAudio.cs*
+/Assets/AlterunaFPS/Scripts/Audio/RandomPitch.cs*
+/Assets/AlterunaFPS/Scripts/CinemachineVirtualCameraInstance.cs*
+/Assets/AlterunaFPS/Scripts/EfxManager.cs*
+/Assets/AlterunaFPS/Scripts/Health.cs*
+/Assets/AlterunaFPS/Scripts/Player/IKControl.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.AngleNormalization.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.Animation.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.Camera.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.Gun.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.Health.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.Input.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.Movment.cs*
+/Assets/AlterunaFPS/Scripts/Player/PlayerController.Networking.cs*
+/Assets/AlterunaFPS/Scripts/UI/GameInitRead.cs*
+/Assets/AlterunaFPS/Scripts/UI/GameInitSet.cs*
+/Assets/AlterunaFPS/Scripts/UI/MainMenu.cs*
+/Assets/AlterunaFPS/Scripts/UI/MenuInstance.cs*
+/Assets/AlterunaFPS/Scripts/UI/RespawnController.cs*
+/Assets/TextMesh Pro/Examples & Extras/
+/Assets/TextMesh Pro/Examples & Extras.meta
+/_backup_scripts/
