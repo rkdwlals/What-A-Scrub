@@ -26,6 +26,6 @@ Assets/AlterunaFPS/
 
 ## 포함하지 않은 파일
 
-템플릿과 외부 에셋은 라이선스 때문에 저장소에 넣지 않았습니다. 프로젝트를 열려면 Alteruna SDK, Alteruna Multiplayer FPS Template, 맵 에셋이 필요합니다. 실행 파일은 Releases에 올립니다.
+템플릿과 외부 에셋은 라이선스 때문에 저장소에 넣지 않았습니다. 프로젝트를 열려면 Alteruna SDK, Alteruna Multiplayer FPS Template, 맵 에셋이 필요합니다.
 
 README와 `.gitignore` 정리는 Claude(AI)의 도움을 받았습니다.
